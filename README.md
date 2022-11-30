@@ -1,3 +1,2 @@
 # GruppeTest
-Test
-berat added something
+nein 
